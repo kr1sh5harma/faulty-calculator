@@ -5,9 +5,6 @@ A calculator with incorrect computations for fun!
 - Performs basic arithmetic (addition, subtraction, multiplication, division).  
 - Introduces random error to make it faulty.
 
-## How to Run  
-Open `index.html` in your browser.  
-
 ## Tech Stack  
 - HTML, CSS, JavaScript  
 
